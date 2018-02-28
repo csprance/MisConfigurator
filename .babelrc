@@ -1,8 +1,7 @@
 {
   "plugins": [
     "transform-react-inline-elements",
-    "transform-inline-environment-variables",
-    "flow-react-proptypes",
+    "transform-inline-environment-variables"
   ],
   "presets": [
     [

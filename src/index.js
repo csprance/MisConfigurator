@@ -2,19 +2,21 @@
 import * as React from 'react';
 import * as misConfigurator from 'mis-configurator';
 
+import hostingDefaults from './hostingDefaults';
+
 type Props = {
-	children: React.Node,
+	data: any,
 };
 type State = {};
 
 class MisConfigurator extends React.Component<Props, State> {
 	static defaultProps = {
-		children: 'This Is a Test',
+		data: hostingDefaults,
 	};
 	state = {};
 
 	render() {
-		return <div>{this.props.children}</div>;
+		return <pre>{misConfigurator.createHostingCFGStringFromObject(this.props.data)}</pre>;
 	}
 }
 

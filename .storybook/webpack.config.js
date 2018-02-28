@@ -1,9 +1,4 @@
-const resolve = require('../webpack/resolve.js');
-
 module.exports = {
-	resolve: {
-		alias: resolve.alias,
-	},
 	module: {
 		rules: [
 			{

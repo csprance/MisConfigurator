@@ -2,50 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54e6e153-77f7-491f-8931-941b37b5e379" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stories.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.prettierrc" beforeDir="false" afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.storybook/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/.storybook/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.storybook/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/.storybook/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.storybook/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/.storybook/webpack.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vagrant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.stylelintrc" beforeDir="false" afterPath="$PROJECT_DIR$/.stylelintrc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/postcss.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.dev.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/_settings/_base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/_settings/_variables.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/_settings/stories.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/_settings/stories.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/-divider/stories.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/button/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/button/stories.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/button/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/card/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/card/stories.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/card/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/subtitle/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/subtitle/stories.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/subtitle/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/title/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/title/stories.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/title/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/molecules/-divider/stories.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/molecules/block/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/molecules/block/stories.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/organisms/-divider/stories.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/organisms/feature/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/organisms/feature/stories.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/organisms/feature/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/templates/-divider/stories.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/templates/default/stories.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/templates/default/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.dev.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack/resolve.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack/resolve.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/stories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
     </list>
     <ignored mask="rest-client.private.env.json" />
     <ignored mask="http-client.private.env.json" />
@@ -58,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/package.json">
+      <file leaf-file-name="stories.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/stories.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+            <state>
+              <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -82,12 +47,19 @@
         <option value="$PROJECT_DIR$/src/components/button/stories.js" />
         <option value="$PROJECT_DIR$/src/components/button/index.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/src/stories.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.eslintrc.json" />
+        <option value="$PROJECT_DIR$/src/stories.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/.stylelintrc" />
         <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
@@ -103,6 +75,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
   <component name="PhpServers">
     <servers />
   </component>
@@ -112,12 +87,15 @@
     <option name="width" value="2420" />
     <option name="height" value="1320" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,7 +107,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -137,17 +114,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="http.client.ignore.private.env.files.were.configured" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.path.for.package.stylelint" value="project" />
-    <property name="node.js.selected.package.eslint" value="C:\Program Files\nodejs\node_modules\eslint" />
-    <property name="node.js.selected.package.standard" value="C:\Program Files\nodejs\node_modules\eslint" />
+    <property name="node.js.selected.package.eslint" value="D:\entrada-web-server\react-mis-configurator-component\node_modules\eslint" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="D:\entrada-web-server\react-mis-configurator-component\node_modules\eslint" />
     <property name="node.js.selected.package.stylelint" value="D:\entrada-web-server\react-mis-configurator-component\node_modules\stylelint" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -167,7 +147,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="npm.start">
+  <component name="RunManager">
+    <configuration name="build-storybook" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build-storybook" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
     <configuration name="dev" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -177,20 +166,20 @@
       <node-interpreter value="project" />
       <envs />
     </configuration>
+    <configuration name="flow-typed" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="flow-typed" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
     <configuration name="flow" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
       <scripts>
         <script value="flow" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-    </configuration>
-    <configuration name="start" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="start" />
       </scripts>
       <node-interpreter value="project" />
       <envs />
@@ -205,17 +194,19 @@
       <envs />
     </configuration>
     <list>
-      <item itemvalue="npm.start" />
       <item itemvalue="npm.dev" />
       <item itemvalue="npm.storybook" />
       <item itemvalue="npm.flow" />
+      <item itemvalue="npm.flow-typed" />
+      <item itemvalue="npm.build-storybook" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.flow-typed" />
         <item itemvalue="npm.storybook" />
+        <item itemvalue="npm.build-storybook" />
         <item itemvalue="npm.flow" />
         <item itemvalue="npm.dev" />
-        <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
   </component>
@@ -232,30 +223,31 @@
       <workItem from="1519788025540" duration="3312000" />
       <workItem from="1519792301985" duration="23000" />
       <workItem from="1519792339592" duration="58000" />
-      <workItem from="1519792409156" duration="896000" />
+      <workItem from="1519792409156" duration="3137000" />
+      <workItem from="1519796221796" duration="1887000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4289000" />
+    <option name="totallyTimeSpent" value="8417000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="3086" height="1702" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32988358" />
-      <window_info id="npm" order="2" sideWeight="0.5028958" side_tool="true" visible="true" weight="0.09537954" />
-      <window_info anchor="right" id="Mongo Explorer" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32988358" />
-      <window_info anchor="bottom" id="Flow" order="7" visible="true" weight="0.32988358" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49710426" visible="true" weight="0.09537954" />
+      <window_info id="npm" order="2" sideWeight="0.503861" side_tool="true" visible="true" weight="0.09537954" />
+      <window_info anchor="right" id="Mongo Explorer" order="4" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32988358" />
+      <window_info anchor="bottom" id="Flow" order="8" weight="0.32988358" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.496139" visible="true" weight="0.09537954" />
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -273,62 +265,14 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/components/button/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/button/index.js" />
     <entry file="file://$PROJECT_DIR$/tests/.eslintrc" />
     <entry file="file://$PROJECT_DIR$/tests/index-test.js" />
     <entry file="file://$PROJECT_DIR$/src/components/_settings/stories.css" />
     <entry file="file://$PROJECT_DIR$/src/components/_settings/stories.js" />
-    <entry file="file://$PROJECT_DIR$/src/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/npm-debug.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/button/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="2" lean-forward="true" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="10" lean-forward="true" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.storybook/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stories.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bootstrap.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/button/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/App.js" />
     <entry file="file://$PROJECT_DIR$/webpack/resolve.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -336,26 +280,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server.dev.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.prettierrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.stylelintrc">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/server.dev.js" />
     <entry file="file://$PROJECT_DIR$/postcss.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -375,43 +300,83 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.prettierrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.flowconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/webpack.config.dev.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
+        <state relative-caret-position="276">
           <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yarn.lock">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.babelrc">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.eslintignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.eslintrc.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.storybook/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="500">
+          <caret line="45" column="13" lean-forward="true" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.storybook/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.stylelintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.storybook/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+        <state relative-caret-position="46">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@storybook/react/src/client/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.storybook/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+        <state relative-caret-position="-555">
+          <caret line="19" column="41" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stories.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>

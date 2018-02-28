@@ -1,10 +1,52 @@
 {
-  "extends": [
-    "plugin:flowtype/recommended",
-    "cheesecakelabs"
-  ],
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "sourceType": "module",
+    "allowImportExportEverywhere": true
+  },
+  "extends": "airbnb",
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "rules": {
+    "arrow-parens": ["off"],
+    "compat/compat": "error",
+    "consistent-return": "off",
+    "comma-dangle": "off",
+    "flowtype-errors/show-errors": "error",
+    "flowtype/no-weak-types": "off",
+    "generator-star-spacing": "off",
+    "import/no-unresolved": "error",
+    "import/no-extraneous-dependencies": "off",
+    "indent": "off",
+    "max-len": ["error", { "comments": 121, "code": 121 }],
+    "no-console": "off",
+    "no-use-before-define": "off",
+    "no-multi-assign": "off",
+    "no-tabs": 0,
+    "promise/param-names": "error",
+    "promise/always-return": "error",
+    "promise/catch-or-return": "error",
+    "promise/no-native": "off",
+    "react/sort-comp": ["error", {
+      "order": ["type-annotations", "static-methods", "lifecycle", "everything-else", "render"]
+    }],
+    "react/jsx-no-bind": "off",
+    "react/jsx-wrap-multilines": "off",
+    "react/jsx-indent": [2, "tab"],
+    "react/jsx-indent-props": [2, "tab"],
+    "react/jsx-filename-extension": ["error", { "extensions": [".js", ".jsx"] }],
+    "react/prefer-stateless-function": "off",
+    "react/prop-types": "off"
+  },
   "plugins": [
-    "flowtype"
+    "flowtype",
+    "flowtype-errors",
+    "import",
+    "promise",
+    "compat",
+    "react"
   ],
   "settings": {
     "import/resolver": {
@@ -12,19 +54,5 @@
         "config": "webpack.config.dev.js"
       }
     }
-  },
-  "rules": {
-    "jsx-a11y/label-has-for": [
-      2,
-      {
-        "required": {
-          "every": [
-            "nesting",
-            "id"
-          ]
-        },
-        "allowChildren": true
-      }
-    ]
   }
 }

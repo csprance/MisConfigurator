@@ -1,16 +1,21 @@
 /* @flow */
 import * as React from 'react';
+import * as misConfigurator from 'mis-configurator';
 
 type Props = {
-	children: React.Node | string,
+	children: React.Node,
 };
+type State = {};
 
-const MisConfigurator = (props: Props): React.Element<*> => {
-	return <div>{props.children}</div>;
-};
+class MisConfigurator extends React.Component<Props, State> {
+	static defaultProps = {
+		children: 'This Is a Test',
+	};
+	state = {};
 
-MisConfigurator.defaultProps = {
-	children: 'Test',
-};
+	render() {
+		return <div>{this.props.children}</div>;
+	}
+}
 
 export default MisConfigurator;
